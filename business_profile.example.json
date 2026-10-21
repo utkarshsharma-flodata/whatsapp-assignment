@@ -1,0 +1,12 @@
+{
+  "name": "Your Company Name",
+  "description": "Technology services: websites, software, dashboards, automation and digital marketing.",
+  "office_location": "City, Country",
+  "working_hours": "Mon–Sat, 10:00–19:00",
+  "contact_email": "sales@example.com",
+  "support_contact": "support@example.com",
+  "pricing": {
+    "Website Development": "Starts at ₹40,000 for a 5-page business website",
+    "Power BI Dashboard": "Starts at ₹25,000 per dashboard"
+  }
+}

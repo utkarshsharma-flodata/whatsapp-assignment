@@ -1,0 +1,17 @@
+# Secrets: never commit real environment files (the example is safe)
+.env
+.env.*
+!.env.example
+
+# Local data and logs (customer data, may contain personal information)
+data/
+logs/
+*.db
+*.db-wal
+*.db-shm
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
